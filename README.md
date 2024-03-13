@@ -2,11 +2,9 @@
 ### Hi there 👋, my name is Ashmita Timalsina
 I am Ashmita from Nepal currently persuing  bachelor degree in Computer Science and Information technology and have knee interest in development ,security and cloud.
 
+-🔭 I’m currently working on this page.
 # Skills:
 PYTHON / HTML / CSS/ MYSQL
-
-- 🔭 I’m currently working on this page.
-   
 # Achivements
 [![An image of @ashmita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashmita)](https://holopin.io/@ashmita)
 
