@@ -6,7 +6,7 @@ I am Ashmita from Nepal currently persuing  bachelor degree in Computer Science 
 # Skills:
 PYTHON / HTML / CSS/ MYSQL
 # Demo of Work
-<img src="C:\Users\ASHMITA\OneDrive\Pictures\Screenshots"  alt="Portfolio">
+<img src="https://github.com/Ashmita1555/Ashmita1555/blob/main/profile.png"  alt="Portfolio">
 
 # Achivements
 [![An image of @ashmita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashmita)](https://holopin.io/@ashmita)
