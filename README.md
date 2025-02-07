@@ -1,21 +1,17 @@
 ### Hi there 👋, my name is Ashmita Timalsina
-I am Ashmita from Nepal, currently pursuing a bachelor's degree in Computer Science and Information Technology.
 
-- 🔭 I’m currently working on this page.
-
-# Professional Summary
 Aspiring Data Scientist with a strong foundation in Python, machine learning, and AI. I have hands-on experience in implementing machine learning models and solving real-world problems using data. I am passionate about leveraging technology to drive impactful change, particularly in the fields of data science, AI, and machine learning. I am currently seeking an internship/traineeship where I can contribute to meaningful projects while refining my technical and problem-solving skills.
-
+- 🔭 I’m currently working on this page.
 # Skills:
 PYTHON / Machine Learning / AI / Django / MongoDB / Data Analysis
 
 # Contact Information:
 📞 +977 9840422664  
 📧 atimalsina1721@gmail.com  
-[GitHub](https://github.com/Ashmita1555/) | [LinkedIn](https://www.linkedin.com/in/ashmita-timalsina-9a6b54273/)
+[GitHub](https://github.com/Ashmita1555/) | 
+[LinkedIn](https://www.linkedin.com/in/ashmita-timalsina-9a6b54273/)
 
-# Demo of Work
-<img src="https://github.com/Ashmita1555/Ashmita1555/blob/main/profile.png" alt="Portfolio">
+
 
 # Achievements
 [![An image of @ashmita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashmita)](https://holopin.io/@ashmita)
