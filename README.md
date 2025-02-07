@@ -4,10 +4,10 @@ I am Ashmita from Nepal, currently pursuing a bachelor's degree in Computer Scie
 - 🔭 I’m currently working on this page.
 
 # Professional Summary
-Aspiring Data Scientist with a strong foundation in Python, Django, and MongoDB. I have hands-on experience in developing web applications and machine learning projects, including a plant disease detection system with 98% accuracy. I am deeply committed to leveraging technology to address real-world challenges, particularly in healthcare and agriculture. I am currently seeking an internship/traineeship where I can contribute to impactful projects while refining my technical and problem-solving skills.
+Aspiring Data Scientist with a strong foundation in Python, machine learning, and AI. I have hands-on experience in implementing machine learning models and solving real-world problems using data. I am passionate about leveraging technology to drive impactful change, particularly in the fields of data science, AI, and machine learning. I am currently seeking an internship/traineeship where I can contribute to meaningful projects while refining my technical and problem-solving skills.
 
 # Skills:
-PYTHON / HTML / CSS / MYSQL / Django / MongoDB / Machine Learning
+PYTHON / Machine Learning / AI / Django / MongoDB / Data Analysis
 
 # Contact Information:
 📞 +977 9840422664  
