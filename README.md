@@ -37,4 +37,5 @@ Aspiring Data Scientist with a strong foundation in Python, and passionate about
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashmita1555&show_icons=true)
 
 # Streak
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ashmita1555)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashmita1555&theme=dark&hide_border=true)
+
