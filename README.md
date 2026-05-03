@@ -29,13 +29,16 @@ Aspiring Data Scientist with a strong foundation in Python, and passionate about
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashmita-timalsina-9a6b54273/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://timalsinaashmita.com.np/)
 
-# Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita1555&layout=compact&langs_count=6)
 
 
-# Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashmita1555&show_icons=true)
 
-# Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashmita1555&theme=dark&hide_border=true)
+| **Language Distribution** | **Overall Git Status** |
+| :---: | :---: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita1555&layout=compact&langs_count=6&theme=radical&count_private=true&cache_seconds=1800) | 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashmita1555&show_icons=true&theme=radical&count_private=true&cache_seconds=1800) |
+
+### 📈 Current Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashmita1555&theme=radical&hide_border=true)
+
+
 
