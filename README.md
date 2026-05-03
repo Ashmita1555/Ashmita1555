@@ -32,13 +32,15 @@ Aspiring Data Scientist with a strong foundation in Python, and passionate about
 
 
 
-| **Language Distribution** | **Overall Git Status** |
-| :---: | :---: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita1555&layout=compact&langs_count=6&theme=radical&count_private=true&cache_seconds=1800) | 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashmita1555&show_icons=true&theme=radical&count_private=true&cache_seconds=1800) |
+# Most Used Languages:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita1555&layout=compact&langs_count=6)
 
-### 📈 Current Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashmita1555&theme=radical&hide_border=true)
+
+# Status
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashmita1555&show_icons=true)
+
+# Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashmita1555&theme=dark&hide_border=true)
 
 
 
